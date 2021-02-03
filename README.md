@@ -10,3 +10,7 @@
 
 **Welp thats all about my I also love to Code with processing.js.**
 
+
+**Heres My Bot's Github**
+<a href="https://github.com/AriesTropixDev/Lynk"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/AriesTropixDev/Lynk.png" width="460px"></a>
+
