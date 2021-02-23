@@ -12,16 +12,5 @@
 **Heres My Bot's Github**
 
 
-  .button {
-        background-color: #FF0000;
-        border: none;
-        color: white;
-        padding: 20px 34px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 20px;
-        margin: 4px 2px;
-        cursor: pointer;
-      }
+
  <a href="https://www.github.com/AriesTropixDev/Ratchet" class="button">Ratchet's Github</a>
