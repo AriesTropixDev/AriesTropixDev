@@ -9,8 +9,4 @@
 - I am also working to get my high school diploma.
 - I am a freshman in high school and working to graduate!
 **Welp that's all about me!!!**
-**Heres My Bot's Github**
 
-
-
- <a href="https://www.github.com/AriesTropixDev/Ratchet" class="button">Ratchet's Github</a>
