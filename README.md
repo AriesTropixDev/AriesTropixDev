@@ -3,16 +3,25 @@
 ### Hi there 👋
 
 **I am AriesTropixDev!!!**
-- 🔭 I’m currently working on AriesTropixDev
-- 🌱 I’m currently learning Processing.Js
-- 🤔 I’m looking for help with My Support Server
-- 💬 Ask me about My Github (Lynk)
-- 📫 How to reach me: daringriver4@yahoo.com
-- ⚡ Fun fact: I went to 3 smithsonian museums in one day!!!
-
-**Welp thats all about my I also love to Code with processing.js.**
-
-
+- I have experience with HTML 5 and node.js.
+- I have experience making websites and discord bots.
+- I am working to get my degree in computer programming.
+- I am also working to get my high school diploma.
+- I am a freshman in high school and working to graduate!
+**Welp that's all about me!!!**
 **Heres My Bot's Github**
 
-<a href="https://github.com/AriesTropixDev/Lynk"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/AriesTropixDev/Lynk.png" width="460px"></a>
+
+  .button {
+        background-color: #FF0000;
+        border: none;
+        color: white;
+        padding: 20px 34px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+ <a href="https://www.github.com/AriesTropixDev/Ratchet" class="button">Ratchet's Github</a>
