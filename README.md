@@ -8,7 +8,7 @@
 - I am working to get my degree in computer programming.
 - I am also working to get my high school diploma.
 - I am a freshman in high school and working to graduate!
-- And Heres my Website: <https://ariestropixdev.github.io/AriesTropixDev-Official-Web/><br />
+- And Heres my Website: <https://ariestropixdev.github.io/AriesTropixDev-Official-Web/home.html><br />
 **Welp that's all about me!!!**
 
 
