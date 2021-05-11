@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm AriesTropixDev</h1>
 <h3 align="center">The King of All Aries!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariestropixdev&label=Profile%20views&color=0e75b6&style=flat" alt="ariestropixdev" /> </p>
-<p align="left"> <img src="https://img.shields.io/badge/%231-Ultra%20Committer-%23F9D71C" alt="Ultra Committer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariestropixdev&label=Profile%20views&color=0e75b6&style=flat" alt="ariestropixdev" /> <img src="https://img.shields.io/badge/%231-Ultra%20Committer-%23F9D71C" alt="Ultra Committer" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariestropixdev" alt="ariestropixdev" /></a> </p>
 
