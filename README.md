@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [My Website](https://ariestropixdev.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://ariestropixdev.github.io/Portfolio](https://ariestropixdev.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ariestropixdev.github.io/Portfolio)
 
 - 💬 Ask me about **HTML, CSS or Github Pages**
 
