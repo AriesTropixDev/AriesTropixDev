@@ -9,4 +9,5 @@ I am also working to get my high school diploma.<br />
 I am a freshman in high school and working to graduate!<br />
 And Heres my Website: [AriesTropixDev](https://ariestropixdev.github.io/)<br />
 **Welp that's all about me!!!**<br />
-<div username='AriesTropixDev' repos='all' class='github-card' id='card'></div>
+<div class="github-card" data-github="AriesTropixDev" data-width="400" data-height="150" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
