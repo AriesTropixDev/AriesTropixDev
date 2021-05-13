@@ -30,7 +30,7 @@
 <a alt="AriesTropixDev" href="https://ariestropixdev.github.io/" align="left">Click Me!</a>
 <p align="left">Or Scan This QR Code</p>
 <img src="frame.png" align="left" alt="QR Code"><br />
-
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariestropixdev&show_icons=true&locale=en&layout=compact" alt="ariestropixdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariestropixdev&show_icons=true&locale=en" alt="ariestropixdev" /></p>
