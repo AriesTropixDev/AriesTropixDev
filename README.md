@@ -29,7 +29,12 @@
 <h3 align="left">Want to Visit My Site?</h3>
 <a alt="AriesTropixDev" href="https://ariestropixdev.github.io/" align="left">Click Me!</a>
 <p align="left">Or Scan This QR Code</p>
-<img src="frame.png" align="left" width="100px" height="100px" alt="QR Code"><br />
+<img src="frame.png" align="left" width="100px" height="125px" alt="QR Code">
+
+
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariestropixdev&show_icons=true&locale=en&layout=compact" alt="ariestropixdev" /></p>
 
