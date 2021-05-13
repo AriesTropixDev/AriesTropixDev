@@ -30,8 +30,8 @@
 <a alt="AriesTropixDev" href="https://ariestropixdev.github.io/" align="left">Click Me!</a>
 <p align="left">Or Scan This QR Code</p>
 <img src="frame.png" align="left" width="100px" height="125px" alt="QR Code">
-
-
+<br />
+<br />
 
 
 
