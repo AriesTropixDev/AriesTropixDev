@@ -3,13 +3,13 @@
 
 ![AriesTropixDev GitHub stats](https://github-readme-stats.vercel.app/api?username=AriesTropixDev&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on **AudioArchive**
+- 🔭 I’m currently working on **RamPlayer**
 
 - 🌱 I’m currently learning **Javascript, React, XML and MySQL**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ariestropixdev.github.io)
 
-- 💬 Ask me about **AudioArchive**
+- 💬 Ask me about **RamPlayer**
 
 - 📫 How to reach me **ariesdeveloper@protonmail.com**
 
