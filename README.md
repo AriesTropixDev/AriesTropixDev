@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RamPlayer**
 
-- 🌱 I’m currently learning **Javascript, React, XML and MySQL**
+- 🌱 I’m currently learning **XML, JSON, Jquery and Python**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ariestropixdev.github.io)
 
